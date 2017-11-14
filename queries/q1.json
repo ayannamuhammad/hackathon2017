@@ -1,0 +1,13 @@
+{
+  "query": "SELECT * FROM c WHERE c.zl_divn_nbr = @div AND c.rds_sku_nbr = @sku",
+  "parameters": [
+    {
+      "name": "@div",
+      "value": "71"
+    },
+    {
+      "name": "@sku",
+      "value": "2079721"
+    }
+  ]
+}
